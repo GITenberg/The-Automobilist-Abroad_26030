@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31606'
     url: http://www.gutenberg.org/2009/agents/31606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26030#The-Automobilist-Abroad
 gutenberg_bookshelf: Transportation
 gutenberg_issued: '2008-07-11'
 gutenberg_type: Text
